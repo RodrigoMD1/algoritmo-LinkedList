@@ -213,3 +213,8 @@ class LinkedList<T> {
 
 
 
+// falta agregar doble linked list 
+
+
+
+
